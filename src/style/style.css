@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 .banner{
-    background: url('src/images/top-banner.png') no-repeat;
+    background: url('/src/images/top-banner.png') no-repeat;
     height: 500px;
 }
 h1{
